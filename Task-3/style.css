@@ -1,0 +1,18 @@
+.hov{
+    box-shadow: 0 0 20px #666666;
+    transition: all 0.3s ;
+}
+
+.hov:hover{
+    color: white;
+    background-color: #666666;
+}
+
+.reg{
+    box-shadow: 0 0 20px #666666;
+    border-radius: 75px;
+}
+
+.fn{
+    margin-top: 40px;
+}
